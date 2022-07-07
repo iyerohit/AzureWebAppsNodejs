@@ -1,0 +1,22 @@
+{
+  "name": "azurewebappsnodejs",
+  "version": "1.0.0",
+  "description": "deploy webapp to azure nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyerohit/AzureWebAppsNodejs.git"
+  },
+  "author": "iyerro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iyerohit/AzureWebAppsNodejs/issues"
+  },
+  "homepage": "https://github.com/iyerohit/AzureWebAppsNodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
