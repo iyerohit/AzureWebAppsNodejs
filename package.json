@@ -4,7 +4,7 @@
   "description": "deploy webapp to azure nodejs",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \" no  tests yet\""
   },
   "repository": {
     "type": "git",
